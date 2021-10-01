@@ -1,0 +1,98 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" version="1.1" width="512" height="512" x="0" y="0" viewBox="0 0 480 480" style="enable-background:new 0 0 512 512" xml:space="preserve" class=""><g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M80,48H16C7.168,48,0,55.168,0,64v64c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V80h48c8.832,0,16-7.168,16-16    C96,55.168,88.832,48,80,48z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M464,336c-8.832,0-16,7.168-16,16v48h-48c-8.832,0-16,7.168-16,16c0,8.832,7.168,16,16,16h64c8.832,0,16-7.168,16-16v-64    C480,343.168,472.832,336,464,336z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M464,48h-64c-8.832,0-16,7.168-16,16c0,8.832,7.168,16,16,16h48v48c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V64    C480,55.168,472.832,48,464,48z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M80,400H32v-48c0-8.832-7.168-16-16-16c-8.832,0-16,7.168-16,16v64c0,8.832,7.168,16,16,16h64c8.832,0,16-7.168,16-16    C96,407.168,88.832,400,80,400z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M80,112c-8.832,0-16,7.168-16,16v224c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128C96,119.168,88.832,112,80,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M144,112c-8.832,0-16,7.168-16,16v160c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128    C160,119.168,152.832,112,144,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M208,112c-8.832,0-16,7.168-16,16v160c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128    C224,119.168,216.832,112,208,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M272,112c-8.832,0-16,7.168-16,16v224c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128    C288,119.168,280.832,112,272,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M336,112c-8.832,0-16,7.168-16,16v160c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128    C352,119.168,344.832,112,336,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M400,112c-8.832,0-16,7.168-16,16v224c0,8.832,7.168,16,16,16c8.832,0,16-7.168,16-16V128    C416,119.168,408.832,112,400,112z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M144.64,336h-0.32c-8.832,0-15.84,7.168-15.84,16c0,8.832,7.328,16,16.16,16c8.832,0,16-7.168,16-16    C160.64,343.168,153.472,336,144.64,336z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M208.64,336h-0.32c-8.832,0-15.84,7.168-15.84,16c0,8.832,7.328,16,16.16,16c8.832,0,16-7.168,16-16    C224.64,343.168,217.472,336,208.64,336z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+	<g>
+		<path d="M336.64,336h-0.32c-8.832,0-15.84,7.168-15.84,16c0,8.832,7.328,16,16.16,16c8.832,0,16-7.168,16-16    C352.64,343.168,345.472,336,336.64,336z" fill="#ffffff" data-original="#000000" style="" class=""/>
+	</g>
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+<g xmlns="http://www.w3.org/2000/svg">
+</g>
+</g></svg>

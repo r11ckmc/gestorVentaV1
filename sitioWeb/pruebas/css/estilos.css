@@ -1,0 +1,264 @@
+/* ------------------ */
+/* ----- HEADER ----- */
+/* ------------------ */
+header {
+	background: var(--fondo-contenido);
+}
+
+header .logo {
+	display: inline-block;
+}
+
+header .logo svg {
+	color: var(--blanco);
+	height: 35px;
+	width: 35px;
+}
+
+header .barra-busqueda {
+	position: relative;
+	width: 100%;
+}
+
+header .barra-busqueda input {
+	width: 100%;
+	border: none;
+	background: var(--input);
+	color: var(--texto);
+	height: 40px;
+	border-radius: 100px;
+	padding: 0 20px 0 40px;
+}
+
+header .barra-busqueda .icono {
+	position: absolute;
+	top: 6px;
+	left: 15px;
+	color: var(--texto);
+}
+
+/* Menu Principal */
+header .menu a {
+	display: inline-block;
+	padding: 10px 40px;
+}
+
+header .menu a:hover {
+	color: var(--texto);
+	background: var(--input);
+	border-radius: 5px;
+}
+
+header .menu a svg {
+	width: 25px;
+	height: 25px;
+}
+
+header .menu .active {
+	border-bottom: 4px solid var(--activo);
+	color: var(--activo);
+}
+
+header .menu .active:hover {
+	background: none;
+	border-radius: 0px;
+	color: var(--activo);
+}
+
+
+/* ------------------ */
+/* -------Fin del header----------- */
+/* ------------------ */
+
+/* Botones */
+header .botones a {
+	background: var(--input);
+	display: inline-flex;
+	border-radius: 100px;
+	min-width: 40px;
+	height: 40px;
+	align-items: center;
+	justify-content: center;
+	margin-left: 7px;
+}
+
+header .botones a:hover {
+	background: #4b4d4e;
+	color: var(--texto);
+}
+
+header .botones .perfil {
+	height: 40px;
+	padding: 0 7px;
+	background: none;
+	min-width: max-content;
+}
+
+header .botones .perfil img {
+	width: 30px;
+	height: 30px;
+	border-radius: 100px;
+	margin-right: 5px;
+}
+
+/* --- Aside ---  */
+aside {
+	height: 100vh;
+	overflow: auto;
+	padding-top: 60px;
+}
+/*fin de botones*/
+
+/* Aside Enlaces Rapidos */
+.enlaces-rapidos > nav a {
+	display: flex;
+	align-items: center;
+	color: var(--blanco);
+	padding: 10px 10px;
+	border-radius: 3px;
+}
+
+.enlaces-rapidos > nav a:hover {
+	background: var(--input-hover);
+}
+
+.enlaces-rapidos .perfil img {
+	width: 30px;
+	height: 30px;
+	border-radius: 100px;
+	margin-right: 10px;
+}
+
+.enlaces-rapidos .icono {
+	margin-right: 20px;
+}
+
+.enlaces-rapidos .icono svg {
+	height: 20px;
+	width: 20px;
+}
+
+/*Enlases Rapidos*/
+
+
+/* --- Publicacion ---  */
+main .publicacion .header {
+	display: flex;
+	width: 100%;
+	align-items: center;
+}
+
+main .publicacion .header .datos {
+	display: flex;
+	flex-direction: column;
+}
+
+main .publicacion .header .datos .nombre {
+	color: var(--blanco);
+}
+
+main .publicacion .header .datos .hora {
+	color: var(--texto);
+	font-size: 14px;
+}
+
+main .publicacion .header .datos .hora:hover {
+	color: var(--texto);
+}
+
+main .publicacion .header .datos a:hover {
+	color: var(--texto);
+	text-decoration: underline;
+}
+/* fin de publicar botones */
+
+
+/*verde-------------------------*/
+/*body {
+	background: #f0f3f5;
+	color: #fff;
+}
+
+header {
+	background: #9aca40;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.contenedor-main {
+	margin-bottom: 20px;
+}
+
+main {
+	background: #fff;
+	color: #424242;
+	padding: 20px 0;
+}
+
+aside {
+	background: #dee5e8;
+	padding: 60px 0;
+	color: #0d47a1;
+}
+
+.widgets {
+	margin-bottom: 20px;
+}
+
+.widgets > div {
+	background: #2196f3;
+	color: #fff;
+	padding: 20px;
+}
+
+footer {
+	padding: 20px 0;
+	background: #1e1e1e;
+}*/
+
+.imagen {
+
+	background: url('mcbross3.png');
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+
+
+/* css mod animado*/
+
+
+
+
+/* fin css mod animado*/
+
+* --- MEDIAQUERIES ---  */
+/* Dispositivo MD */
+@media screen and (max-width: 768px) {
+	.enlaces-rapidos,
+	.contactos {
+		display: none;
+	}
+}
+
+/* Dispositivo LG */
+@media screen and (max-width: 992px) {
+	header {
+		padding-top: 10px;
+	}
+
+	.menu {
+		margin-top: 10px;
+	}
+
+	.contenido-principal {
+		padding-top: 70px;
+	}
+}
+
+/* Dispositivo XL */
+@media screen and (max-width: 1200px) {
+	header .menu a {
+		padding: 10px 20px;
+	}
+}
